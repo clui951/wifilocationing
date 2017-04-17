@@ -1,0 +1,3 @@
+[submodule "wifilocationing/accesspoints"]
+	path = wifilocationing/accesspoints
+	url = https://github.com/clui951/accesspoints
